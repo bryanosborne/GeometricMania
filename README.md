@@ -9,9 +9,13 @@ The user should be allowed to calculate the area for as many shapes as they wish
 Since Wizard of Oz Solutions is an advocate of modular code and code reuse, the program will need to written using functions that calculate the area of the various shapes.
 
 The shapes for which area must be required are circle, square, rectangle, and right triangle.  The function declarations for the area functions are as follows:
+
   def circleArea(radius:float):
+
   def squareArea(side:float):
+  
   def rectangleArea(length:float, width:float):
+  
   def triangleArea(base:float, height:float):
   
 Submit your program to CampusWeb
